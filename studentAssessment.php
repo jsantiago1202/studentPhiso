@@ -97,7 +97,7 @@
           <!-- <i class="far fa-user"></i> -->
         </div>
         <div class="info">
-          <a href="#" class="d-block">
+          <a href="studentProfile.php?ID=<?php echo $studID;?>" class="d-block">
           
           <?php
           if(isset($_SESSION['UserLogin']))
