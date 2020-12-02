@@ -1,0 +1,152 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.own-container{
+    width: 1000px;
+    margin: auto;
+}
+/*----------------*/
+/*----LOGINBOX START----*/
+/*----------------*/
+#forgot-password{
+    font-size:13px;
+    position: absolute;
+    margin: 0;
+    position: absolute;
+    top: 280px;
+    left: 35%;
+    color: #1d76cd;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);;
+}
+#login-button-return{
+   width: 30px;
+   color: teal;
+   background-color: transparent;
+}
+button{
+    cursor: pointer;
+}
+#login-button-submit{
+    width: 200px;
+    padding: 10px;
+    background-color: #1d76cd;
+    color: #dfe6e9;
+    border-style: none;
+    cursor: pointer;
+}
+#login-button-submit{
+    position: absolute;
+    margin: 0;
+    position: absolute;
+    top: 315px;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);;
+}
+
+#login-button-return{
+    color:  #1d76cd;
+    width: 120px;
+    font-size: 1em;
+    border-style: none;
+    position: absolute;
+    margin: 0;
+    position: absolute;
+    top: 98%;
+    left: 15%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.login-user-tb i, .login-user-pass i{
+    opacity: 0.5;
+}
+.login-user-tb, .login-user-pass{
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 230px;
+    border-bottom: 1px solid #1d76cd;
+    text-align: center;
+    margin: auto;
+}
+.login-box-main input{
+    background-color: transparent;
+    border-style: none;
+    padding: 5px;
+    font-size: 1em;
+}
+.login-box-main{
+    position: relative;
+    width: 400px;
+    background-color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 100px;
+    padding-bottom: 150px;
+    color: #1d76cd;
+    border-left: 1px solid #393b3a56;
+}
+.login-box-main h1{
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+
+.login-box-img{
+    
+    width: 700px;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+.login-box-img img{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.login-box{
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    -webkit-box-shadow: 0px 0px 10px 5px rgba(57,59,58,0.25);
+    -moz-box-shadow: 0px 0px 10px 5px rgba(57,59,58,0.25);
+    box-shadow: 0px 0px 10px 5px rgba(57,59,58,0.25);
+    background-color: white;
+    vertical-align: middle;
+    padding: 15px 10px 15px 10px;
+    margin-top: 7%;
+
+}
+
+.login-warning{
+    position: absolute;
+    font-size: 13px;
+    margin: 0;
+    top: 340px;
+    left: 15%;
+    color: red;
+ 
+}
+.register-modal{
+    position: absolute;
+    font-size: 13px;
+    margin: 0;
+    top: 400px;
+    left: 15%;
+    color:   #1d76cd;
+}
+/*----------------------*/
+/*----LOGINBOX-END----*/
+/*----------------------*/
+/*----------------------*/
+/*----REGISTRATION.PHP-START----*/
+/*----------------------*/
+
+
+/*----------------------*/
+/*----REGISTRATION.PHP-END----*/
+/*----------------------*/
+
