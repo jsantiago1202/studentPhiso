@@ -31,8 +31,8 @@
         <div class="container">
             <div class="promotions">
                 <div class="main-slogan">
-                        <h1 style="color: #1e76cd;">Pocket. Life. Insuranace and Organizier</h1>
-                        <p style="font-weight: bold; font-size: large;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita totam, recusandae odit a reiciendis laborum amet cupiditate vel dicta suscipit.</p>
+                        <h1 style="color: #1e76cd;">Save PHISO, Save Life.</h1>
+                        <p style="font-weight: bold; font-size: large;">Student PHISO or Personal Health Insurance and Saving Organizer. </p>
                         <div class="main-button" style="display: none;">
                             <a id="main-button-register" target = "_parent" href="registration.php" target="_parent">REGISTER</a>
 
