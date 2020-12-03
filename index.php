@@ -60,12 +60,18 @@
                                 
                                 <i class="fas fa-heartbeat"></i>
                                 <h1>Health</h1>
-                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus eos voluptatibus cupiditate nesciunt ipsa quisquam vitae repudiandae delectus vero eligendi, accusamus, repellendus corrupti blanditiis quidem qui animi alias, veritatis obcaecati.</p>
+                                <p>Student PHISO offers health monitoring plan. This ensures a better lifestyle
+for a happy and healthy living. The plan includes gym participation, healthy food suggestions
+and basic exercises engagement. Thus, Student PHISO's health monitoring promotes activeness
+of each student with their daily life activities.</p>
                             </div>
                             <div class="savings">
                                 <i class="fas fa-piggy-bank"></i>
                                 <h1>Savings</h1>
-                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus eos voluptatibus cupiditate nesciunt ipsa quisquam vitae repudiandae delectus vero eligendi, accusamus, repellendus corrupti blanditiis quidem qui animi alias, veritatis obcaecati.</p>
+                                <p>Student PHISO proposes savings plan. This plan is capable of securing every peso that
+students trusted on us. Each peso is safe until its time to be needed or withdrawal. This aims
+to achieve a student's goal by protecting the money that their family or themselves earned and
+worked hard on.</p>
                             </div>
                         </div>
                     </div>
@@ -75,12 +81,18 @@
                          
                             <i class="fas fa-procedures"></i>
                                 <h1>Life</h1>
-                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus eos voluptatibus cupiditate nesciunt ipsa quisquam vitae repudiandae delectus vero eligendi, accusamus, repellendus corrupti blanditiis quidem qui animi alias, veritatis obcaecati.</p>
+                                <p>Student PHISO's life insurance pertains to the partnership with the students for 
+a better upcomings that life holds. This will serve as a guide for the best life decisions.
+Student PHISO guarantees that we will lead the students until the achievement of a secure
+future life.</p>
                             </div>
                             <div class="education">
                             <i class="fas fa-book"></i>
                                 <h1>Education</h1>
-                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus eos voluptatibus cupiditate nesciunt ipsa quisquam vitae repudiandae delectus vero eligendi, accusamus, repellendus corrupti blanditiis quidem qui animi alias, veritatis obcaecati.</p>
+                                <p>Student PHISO education establish a secure future for students. This encourages
+students to continue their study without worrying. This plan will proceed until graduation and/
+or reaching life education goal. Student PHISO education assures to discover the potential and
+growth of students. This will set as a guide for a promising future.</p>
                             </div>
                         </div>
                         <div class="blockB-img">
